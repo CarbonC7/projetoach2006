@@ -1,0 +1,29 @@
+{
+  "name": "projetoengenharia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bluebird": "^3.7.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "cookie-session": "^1.4.0",
+    "csurf": "^1.11.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "moment": "^2.29.1",
+    "passport": "^0.5.0",
+    "passport-local": "^1.0.0",
+    "pg-promise": "^10.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "dev": "nodemon -e * app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

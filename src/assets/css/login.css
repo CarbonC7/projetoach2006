@@ -1,0 +1,14 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+input, button {
+  padding: 15px !important;
+}
+
+.bg-image {
+  background-image: url('https://www.meupositivo.com.br/panoramapositivo/wp-content/uploads/2019/02/original-845ef4a870d43861d9b59d340aaf9035.jpg');
+  background-size: cover;
+  background-position: center center;
+}
